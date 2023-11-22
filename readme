@@ -1,0 +1,19 @@
+#Etapa 1 
+
+//Criar e importar as bibliotecas necessárias 
+//para dentro do script criado
+
+--from tkintter import *
+--from tkinter import ttk
+
+#Etapa 2
+//Crie uma janela e faça 
+//configurações básicas da janela
+
+#Etapa 3
+//Divide a janela em dois quadros e 
+//faça algumas configurações neles
+
+#Etapa 4
+//Cire botões e os poem no frame abaixo, use o gerenciador
+//de managamente que melhor achares, aqui usaremos o place()
